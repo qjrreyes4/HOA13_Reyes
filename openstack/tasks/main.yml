@@ -1,4 +1,4 @@
-- name: Installng OpenStack (Ubuntu)
+- name: Installing OpenStack (Ubuntu)
   apt:
     name:
       - nova-compute

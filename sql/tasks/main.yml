@@ -1,4 +1,5 @@
-- name: Installing Packages (SQL for Ubuntu)  apt:
+- name: Installing Packages (SQL for Ubuntu)
+  apt:
     name:
       - mariadb-server
       - python3-pymysql
